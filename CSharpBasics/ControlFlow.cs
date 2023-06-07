@@ -8,7 +8,7 @@ namespace CSharpBasics
 {
     internal class ControlFlow
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Executing Line 1");
             Console.WriteLine("Executing Line 2");
